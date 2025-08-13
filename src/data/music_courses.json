@@ -1,0 +1,44 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Lessons",
+      "slug": "beginner-guitar-lessons",
+      "description": "Learn the basics of guitar, including chords, strumming, and simple songs.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "https://example.com/images/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start playing piano from scratch with this comprehensive beginner's course.",
+      "price": 59.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "https://example.com/images/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Vocal Training",
+      "slug": "advanced-vocal-training",
+      "description": "Improve your vocal range, control, and performance techniques.",
+      "price": 79.99,
+      "instructor": "Michael Lee",
+      "isFeatured": true,
+      "image": "https://example.com/images/vocals.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn to create professional-quality electronic music using modern tools.",
+      "price": 89.99,
+      "instructor": "Samantha Chen",
+      "isFeatured": true,
+      "image": "https://example.com/images/electronic.jpg"
+    }
+  ]
+}
