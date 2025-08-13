@@ -1,3 +1,4 @@
+'use client'
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 import { WavyBackground } from "./ui/wavy-background";
 
